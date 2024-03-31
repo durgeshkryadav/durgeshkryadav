@@ -1,7 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>MERN Stack and implementing microservices architecture.<br><br>👯
-
-<h3 align="center">A passionate mern stack developer from India</h3>
+- 🔭 I’m currently working on: **MERN Stack and implementing microservices architecture.** </br>
 
 - 👯 I’m looking to collaborate on: **Fullstack projects**
 
